@@ -1,0 +1,10 @@
+h1{
+    color: brown;
+}
+h1, h2{
+    text-align: center;
+}
+.box{
+    background-color:burlywood;
+    height:30vh;
+}
